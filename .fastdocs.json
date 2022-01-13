@@ -1,5 +1,5 @@
 {
   "description": "Markdown personal notes",
-  "plugins": [],
+  "plugins": ["docsify-copy-code", "full-text-search", "emoji", "zoom-image"],
   "gaCode": ""
 }
