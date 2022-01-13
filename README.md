@@ -16,3 +16,8 @@ Cuando creas documentos _Markdown_, agregas el formato escribiendo los símbolos
 Más adelante, cuando el documento se procese mediante una herramienta compatible, el texto junto con la sintaxis _Markdown_ se exportará a otro tipo de archivo, que podrá ser de algún formato como por ejemplo ***HTML*** o ***PDF***.
 
 ---
+
+
+
+
+[logo-md]: https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg "Markdown"
