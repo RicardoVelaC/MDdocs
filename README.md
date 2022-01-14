@@ -5,21 +5,20 @@
 
 # ¿Qué es Markdown?
 
-_Markdown_ es un **lenguaje de marcado ligero** creado en _2004_ con el que puedes agregar formato a documentos de texto plano. 📜
+**_Markdown_** es un **lenguaje de marcado ligero** creado en _2004_ con el que puedes agregar formato a documentos de texto plano. 📜
 
-La clave del diseño de _Markdown_ es la **facilidad de lectura**, que hace que el lenguaje sea fácilmente interpretado.
+La clave del diseño de**_Markdown_** es la **facilidad de lectura**, que hace que el lenguaje sea fácilmente interpretado.
 
-Cuando creas documentos _Markdown_, agregas el formato escribiendo los símbolos que conforman la sintaxis de _Markdown_, sin que exista una interfaz gráfica. Puedes agregar elementos en formato _Markdown_ a cualquier archivo de texto plano mediante cualquier editor de texto. Aunque también puedes utilizar editores específicos para escribir y visualizar el resultado a la vez.
+Cuando creas documentos **_Markdown_**, agregas el formato escribiendo los símbolos que conforman la sintaxis de **_Markdown_**, sin que exista una interfaz gráfica. Puedes agregar elementos en formato **_Markdown_** a cualquier archivo de texto plano mediante cualquier editor de texto. Aunque también puedes utilizar editores específicos para escribir y visualizar el resultado a la vez.
 
-*_Markdown_* ha sido diseñado para que el texto también resulte legible sin ser renderizado.
+**_Markdown_** ha sido diseñado para que el texto también resulte legible sin ser renderizado.
 
-Más adelante, cuando el documento se procese mediante una herramienta compatible, el texto junto con la sintaxis _Markdown_ se exportará a otro tipo de archivo, que podrá ser de algún formato como por ejemplo ***HTML*** o ***PDF***.
-
----
+Más adelante, cuando el documento se procese mediante una herramienta compatible, el texto junto con la sintaxis **_Markdown_** se exportará a otro tipo de archivo, que podrá ser de algún formato como por ejemplo **_HTML_** o **_PDF_**.
 
 ---
-
 # Ejemplos de sintaxis
+
+## Common MarkDown
 
 ### Saltos de línea
 
@@ -55,7 +54,9 @@ Se generan cuando se encuentra **una almohadilla** antes del texto:
 ##### Encabezado nivel h5
 ###### Encabezado nivel h6
 ```
+
 También los podemos crear añadiendo una línea de **=** para los de _nivel 1_ y **-** para los de _nivel 2_:
+
 ```markdown
 Encabezado h1
 ===============
@@ -122,17 +123,15 @@ Podemos utilzar `*` o `_` indistintamente siendo siempre dobles para **negrita**
 simples para *cursiva* por ejemplo:
 
 **Esto es un texto en negrita** __y esto también lo es__  
+
 *Esto es un texto en cursiva* _y esto también lo es_
 
+>>MD Code:
+
 ```markdown
-|                                Código Markdown                                |
-| :---------------------------------------------------------------------------: |
-|                                                                               |
-|           **Esto es un texto en negrita** __y esto también lo es__            |
-|                                                                               |
-|             *Esto es un texto en cursiva* _y esto también lo es_              |
-|                                                                               |
-| _____________________________________________________________________________ |
+**Esto es un texto en negrita** __y esto también lo es__
+
+*Esto es un texto en cursiva* _y esto también lo es_
 ```
 
 *cursiva*  **negrita**  ***negrita y cursiva***  ~~tachado~~ 
